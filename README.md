@@ -88,7 +88,5 @@ This research directly informed:
 | Trustpilot / Product Hunt / Chrome Web Store / App Store | Platform review analysis |
 | Google Forms | Survey design |
 | Jira | Backlog management |
-| Figma | Stakeholder presentation |
-| Netlify | Frontend deployment |
 
 ---
