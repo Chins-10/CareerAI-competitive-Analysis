@@ -40,3 +40,55 @@ data or source code is included.
 ---
 
 ## Repository structure
+---
+
+## Deliverables
+
+### 1. Product discovery
+First-hand analysis of Jobright AI — onboarding flow, key features, pricing tiers, 
+and target user persona documented from direct product usage across multiple sessions.
+
+### 2. Reddit sentiment analysis
+25 posts and comments collected across 5 Reddit communities, tagged as positive, 
+neutral, or negative, with top 5 praise points and top 5 complaints identified.
+
+### 3. Multi-platform review analysis
+Star ratings, review counts, and representative positive and negative reviews 
+collected from Trustpilot, Product Hunt, Chrome Web Store, and Apple App Store.
+
+### 4. User survey
+12-question survey designed in Google Forms covering pain points, tool awareness, 
+feature preferences, and willingness to pay — with a distribution plan targeting 
+Reddit, university career groups, and job seeker communities.
+
+### 5. Synthesis & recommendations
+- Feature comparison matrix across 4 competitors covering 15 dimensions
+- SWOT analysis for Jobright AI
+- 5 specific market opportunities for CareerAI
+- Impact vs Effort prioritization matrix
+- Strategic recommendations for product positioning
+
+---
+
+## Outcomes
+
+This research directly informed:
+- CareerAI's core positioning strategy — speed + trustworthiness as the key differentiator
+- A 28-item product backlog across 4 two-week sprints
+- A Go with Conditions release recommendation backed by QA test evidence
+- A B2B growth opportunity targeting bootcamps and career centers
+
+---
+
+## Tools used
+
+| Tool | Purpose |
+|---|---|
+| Reddit | Sentiment data collection |
+| Trustpilot / Product Hunt / Chrome Web Store / App Store | Platform review analysis |
+| Google Forms | Survey design |
+| Jira | Backlog management |
+| Figma | Stakeholder presentation |
+| Netlify | Frontend deployment |
+
+---
