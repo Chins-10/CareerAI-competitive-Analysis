@@ -3,7 +3,7 @@
 **Role:** Product Manager  
 **Timeline:** April 2026 – Present  
 **Platform:** AI-powered job search platform  
-**Live product:** [CareerAI](https://silver-sprite-84e615.netlify.app)
+**Live product:** [CareerAI]([https://silver-sprite-84e615.netlify.app](https://www.careerai.io/))
 
 ---
 
